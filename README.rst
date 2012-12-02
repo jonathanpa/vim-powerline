@@ -1,3 +1,8 @@
+Forked from forked https://Lokaltog/vim-powerline.
+
+The only change is the deletion of the tagbar.vim segment
+to avoid powerline crash with the Tagbar vim plugin.
+
 ===================
 DEPRECATION WARNING
 ===================
